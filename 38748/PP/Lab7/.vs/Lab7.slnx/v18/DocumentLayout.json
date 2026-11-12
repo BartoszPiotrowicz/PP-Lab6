@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\38748\\PP\\Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE36CCA-064A-4DF5-AAF6-510BD555C479}|Lab7\\Lab7.csproj|z:\\38748\\pp\\lab7\\lab7\\zadania\\zad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE36CCA-064A-4DF5-AAF6-510BD555C479}|Lab7\\Lab7.csproj|solutionrelative:lab7\\zadania\\zad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE36CCA-064A-4DF5-AAF6-510BD555C479}|Lab7\\Lab7.csproj|z:\\38748\\pp\\lab7\\lab7\\klasy\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE36CCA-064A-4DF5-AAF6-510BD555C479}|Lab7\\Lab7.csproj|solutionrelative:lab7\\klasy\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE36CCA-064A-4DF5-AAF6-510BD555C479}|Lab7\\Lab7.csproj|z:\\38748\\pp\\lab7\\lab7\\klasy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE36CCA-064A-4DF5-AAF6-510BD555C479}|Lab7\\Lab7.csproj|solutionrelative:lab7\\klasy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE36CCA-064A-4DF5-AAF6-510BD555C479}|Lab7\\Lab7.csproj|z:\\38748\\pp\\lab7\\lab7\\zadania\\zad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE36CCA-064A-4DF5-AAF6-510BD555C479}|Lab7\\Lab7.csproj|solutionrelative:lab7\\zadania\\zad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE36CCA-064A-4DF5-AAF6-510BD555C479}|Lab7\\Lab7.csproj|z:\\38748\\pp\\lab7\\lab7\\zadania\\zad3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE36CCA-064A-4DF5-AAF6-510BD555C479}|Lab7\\Lab7.csproj|solutionrelative:lab7\\zadania\\zad3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE36CCA-064A-4DF5-AAF6-510BD555C479}|Lab7\\Lab7.csproj|z:\\38748\\pp\\lab7\\lab7\\zadania\\zad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE36CCA-064A-4DF5-AAF6-510BD555C479}|Lab7\\Lab7.csproj|solutionrelative:lab7\\zadania\\zad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE36CCA-064A-4DF5-AAF6-510BD555C479}|Lab7\\Lab7.csproj|z:\\38748\\pp\\lab7\\lab7\\zadania\\zad5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE36CCA-064A-4DF5-AAF6-510BD555C479}|Lab7\\Lab7.csproj|solutionrelative:lab7\\zadania\\zad5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Zad5.cs",
+              "DocumentMoniker": "Z:\\38748\\PP\\Lab7\\Lab7\\Zadania\\Zad5.cs",
+              "RelativeDocumentMoniker": "Lab7\\Zadania\\Zad5.cs",
+              "ToolTip": "Z:\\38748\\PP\\Lab7\\Lab7\\Zadania\\Zad5.cs",
+              "RelativeToolTip": "Lab7\\Zadania\\Zad5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T11:24:02.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Zad4.cs",
+              "DocumentMoniker": "Z:\\38748\\PP\\Lab7\\Lab7\\Zadania\\Zad4.cs",
+              "RelativeDocumentMoniker": "Lab7\\Zadania\\Zad4.cs",
+              "ToolTip": "Z:\\38748\\PP\\Lab7\\Lab7\\Zadania\\Zad4.cs",
+              "RelativeToolTip": "Lab7\\Zadania\\Zad4.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAiwGQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T10:52:02.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zad3.cs",
+              "DocumentMoniker": "Z:\\38748\\PP\\Lab7\\Lab7\\Zadania\\Zad3.cs",
+              "RelativeDocumentMoniker": "Lab7\\Zadania\\Zad3.cs",
+              "ToolTip": "Z:\\38748\\PP\\Lab7\\Lab7\\Zadania\\Zad3.cs",
+              "RelativeToolTip": "Lab7\\Zadania\\Zad3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T10:31:16.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zad2.cs",
+              "DocumentMoniker": "Z:\\38748\\PP\\Lab7\\Lab7\\Zadania\\Zad2.cs",
+              "RelativeDocumentMoniker": "Lab7\\Zadania\\Zad2.cs",
+              "ToolTip": "Z:\\38748\\PP\\Lab7\\Lab7\\Zadania\\Zad2.cs",
+              "RelativeToolTip": "Lab7\\Zadania\\Zad2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T10:13:59.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "Z:\\38748\\PP\\Lab7\\Lab7\\Klasy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Lab7\\Klasy\\Enemy.cs",
+              "ToolTip": "Z:\\38748\\PP\\Lab7\\Lab7\\Klasy\\Enemy.cs",
+              "RelativeToolTip": "Lab7\\Klasy\\Enemy.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwBsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T09:48:20.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "Z:\\38748\\PP\\Lab7\\Lab7\\Klasy\\Player.cs",
+              "RelativeDocumentMoniker": "Lab7\\Klasy\\Player.cs",
+              "ToolTip": "Z:\\38748\\PP\\Lab7\\Lab7\\Klasy\\Player.cs",
+              "RelativeToolTip": "Lab7\\Klasy\\Player.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T09:47:01.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zad1.cs",
+              "DocumentMoniker": "Z:\\38748\\PP\\Lab7\\Lab7\\Zadania\\Zad1.cs",
+              "RelativeDocumentMoniker": "Lab7\\Zadania\\Zad1.cs",
+              "ToolTip": "Z:\\38748\\PP\\Lab7\\Lab7\\Zadania\\Zad1.cs",
+              "RelativeToolTip": "Lab7\\Zadania\\Zad1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwC0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T09:33:43.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
